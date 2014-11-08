@@ -34,7 +34,8 @@ In spite of this, the goal of **AttackVector Linux** is to integrate them into o
 
 Download
 ========
-* downloads are down for now, follow the build instructions.
+* via [The Stinger](http://github.com/thomhastings/attackvector)
+* alternatively, follow the build instructions.
 
 F.A.Q.
 ======
