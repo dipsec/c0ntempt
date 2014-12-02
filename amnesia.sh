@@ -1,4 +1,5 @@
 #!/bin/bash
+#deisnged for openSUSE
 mkdir .tmp
 ln -s .tmp tmp
 cd tmp
@@ -25,4 +26,4 @@ git subtree add --prefix=s00n kensoona0
 git subtree add --prefix=.dot mydotfile
 git commit -a -m "added primary base subtrees"
 sudo -s
-apt-get install htop
+sudo zypper install tree htop screen zsh lynx vim yakuake audacious figlet
